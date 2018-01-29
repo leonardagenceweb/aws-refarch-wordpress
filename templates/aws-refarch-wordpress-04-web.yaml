@@ -512,6 +512,7 @@ Resources:
               mysql56: []
               php55: []
               php55-mysqlnd: []
+              php55-mbstring: []
           files:
             /tmp/create_site_conf.sh:
               content:
@@ -716,6 +717,7 @@ Resources:
               mysql56: []
               php56: []
               php56-mysqlnd: []
+              php56-mbstring: []
           files:
             /tmp/create_site_conf.sh:
               content:
@@ -920,6 +922,7 @@ Resources:
               mysql56: []
               php70: []
               php70-mysqlnd: []
+              php70-mbstring: []
           files:
             /tmp/create_site_conf.sh:
               content:
